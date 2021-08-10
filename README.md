@@ -1,0 +1,2 @@
+# oscillator_parameter_calculator
+this project can be used to calculate the frequency of operation and the feedback resistance required for proper functioning. there are two methods one with function and another without function an else if ladder is used to select the type of oscillator and then get the resistance and capacitance values then the frequency and feedback resistance values are calculated and returned
